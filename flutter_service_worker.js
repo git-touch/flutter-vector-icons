@@ -26,8 +26,8 @@ const RESOURCES = {
 "assets/packages/flutter_vector_icons/fonts/MaterialCommunityIcons.ttf": "6a2ddad1092a0a1c326b6d0e738e682b",
 "assets/packages/flutter_vector_icons/fonts/Foundation.ttf": "e20945d7c929279ef7a6f1db184a4470",
 "assets/FontManifest.json": "5d7b8f3f3c0a7db2fa05edcc3bb4a3d8",
-"index.html": "8cd7a13699243c550d9247b92a9c5efd",
-"/": "8cd7a13699243c550d9247b92a9c5efd",
+"index.html": "995295ff72248fb57ae0f256aa977567",
+"/": "995295ff72248fb57ae0f256aa977567",
 "main.dart.js": "bc876bc002be92e90c0808416679b697",
 "version.json": "49b39a448e700e987a4792bf0dc8c938",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
